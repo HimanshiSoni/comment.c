@@ -2,9 +2,9 @@
 int main ()
 {
 	//printing name
-	printf("AYUSH KUMAR JHA");
+	printf("Himanshi soni");
 	/*
-	return 0;
 	it will print the name
 	*/
+        return 0;
 }
